@@ -177,14 +177,14 @@ Potential additions:
 - [ ] Implement printable worksheets
 - [ ] Add teacher/parent dashboard
 - [ ] Create video tutorials for complex topics
-- [ ] Add Spanish language support
+- [ ] Add financial management lessons (simple)
 - [ ] Integrate with Google Classroom
 
 ---
 
 ## 📄 License
 
-This project is provided as a free educational resource by the North Bellmore Public Library.
+This project is provided as a free educational resource by Joshua Sat.
 
 ---
 
