@@ -2,7 +2,7 @@
 
 A comprehensive, free math curriculum platform aligned to **New York State Next Generation Learning Standards** for elementary students in grades K-6.
 
-**Live Site:** [starhyeon.github.io/StarInBorderland](https://starhyeon.github.io/MathBuddy/)
+**Live Site:** [starhyeon.github.io/StarInBorderland](https://starhyeon.github.io/StarInBorderland/)
 
 Provided by the **North Bellmore Public Library**
 
